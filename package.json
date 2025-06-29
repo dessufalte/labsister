@@ -1,0 +1,29 @@
+{
+  "name": "labsister",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dessufalte/labsister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dessufalte/labsister/issues"
+  },
+  "homepage": "https://github.com/dessufalte/labsister#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "mqtt": "^5.13.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
